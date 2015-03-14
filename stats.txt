@@ -1,0 +1,70 @@
+1	Chinese [zho]	China	33	1,197
+ 	Chinese, Gan [gan]	China	1	20.6
+ 	Chinese, Hakka [hak]	China	13	30.1
+ 	Chinese, Huizhou [czh]	China	1	4.60
+ 	Chinese, Jinyu [cjy]	China	1	45.0
+ 	Chinese, Mandarin [cmn]	China	12	848
+ 	Chinese, Min Bei [mnp]	China	2	10.3
+ 	Chinese, Min Dong [cdo]	China	6	9.12
+ 	Chinese, Min Nan [nan]	China	10	46.6
+ 	Chinese, Min Zhong [czo]	China	1	3.10
+ 	Chinese, Pu-Xian [cpx]	China	3	2.56
+ 	Chinese, Wu [wuu]	China	1	77.2
+ 	Chinese, Xiang [hsn]	China	1	36.0
+ 	Chinese, Yue [yue]	China	10	62.2
+2	Spanish [spa]	Spain	31	399
+3	English [eng]	United Kingdom	101	335
+4	Hindi [hin]	India	4	260
+5	Arabic [ara]	Saudi Arabia	60	242
+ 	Arabic, Algerian Spoken [arq]	Algeria	1	26.7
+ 	Arabic, Chadian Spoken [shu]	Chad	4	1.14
+ 	Arabic, Eastern Egyptian Bedawi Spoken [avl]	Egypt	4	1.69
+ 	Arabic, Egyptian Spoken [arz]	Egypt	1	55.0
+ 	Arabic, Gulf Spoken [afb]	Kuwait	9	5.34
+ 	Arabic, Hijazi Spoken [acw]	Saudi Arabia	2	6.02
+ 	Arabic, Libyan Spoken [ayl]	Libya	3	4.32
+ 	Arabic, Mesopotamian Spoken [acm]	Iraq	4	15.1
+ 	Arabic, Moroccan Spoken [ary]	Morocco	2	21.0
+ 	Arabic, Najdi Spoken [ars]	Saudi Arabia	4	9.87
+ 	Arabic, North Levantine Spoken [apc]	Syria	2	14.8
+ 	Arabic, North Mesopotamian Spoken [ayp]	Iraq	3	6.30
+ 	Arabic, Omani Spoken [acx]	Oman	3	1.09
+ 	Arabic, Sa’idi Spoken [aec]	Egypt	1	19.0
+ 	Arabic, Sanaani Spoken [ayn]	Yemen	1	7.60
+ 	Arabic, South Levantine Spoken [ajp]	Jordan	3	6.47
+ 	Arabic, Sudanese Spoken [apd]	Sudan	3	16.9
+ 	Arabic, Ta’izzi-Adeni Spoken [acq]	Yemen	2	7.08
+ 	Arabic, Tunisian Spoken [aeb]	Tunisia	1	11.2
+6	Portuguese [por]	Portugal	12	203
+7	Bengali [ben]	Bangladesh	4	189
+8	Russian [rus]	Russian Federation	16	166
+9	Japanese [jpn]	Japan	2	128
+10	Lahnda [lah]	Pakistan	6	88.7
+ 	Hindko, Northern [hno]	Pakistan	1	1.88
+ 	Pahari-Potwari [phr]	Pakistan	2	2.50
+ 	Punjabi, Western [pnb]	Pakistan	2	62.6
+ 	Saraiki [skr]	Pakistan	2	20.1
+11	Javanese [jav]	Indonesia	3	84.3
+12	German, Standard [deu]	Germany	18	78.1
+13	Korean [kor]	South Korea	5	77.2
+14	French [fra]	France	51	75.9
+15	Telugu [tel]	India	2	74.0
+16	Marathi [mar]	India	1	71.8
+17	Turkish [tur]	Turkey	8	70.9
+18	Tamil [tam]	India	6	68.8
+19	Vietnamese [vie]	Viet Nam	3	67.8
+20	Urdu [urd]	Pakistan	6	64.0
+21	Italian [ita]	Italy	11	63.8
+22	Malay [msa]	Malaysia	13	60.5
+ 	Banjar [bjn]	Indonesia	2	3.50
+ 	Indonesian [ind]	Indonesia	1	23.2
+ 	Malay [zlm]	Malaysia	3	15.8
+ 	Malay, Central [pse]	Indonesia	1	1.59
+ 	Malay, Jambi [jax]	Indonesia	1	1.00
+ 	Malay, Kedah [meo]	Malaysia	2	2.60
+ 	Malay, Pattani [mfa]	Thailand	1	1.00
+ 	Minangkabau [min]	Indonesia	1	5.53
+ 	Musi [mui]	Indonesia	1	3.10
+23	Persian [fas]	Iran	29	57.0
+ 	Dari [prs]	Afghanistan	2	9.60
+ 	Persian, Iranian [pes]	Iran	6	47.4
